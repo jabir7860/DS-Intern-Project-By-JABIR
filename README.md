@@ -1,6 +1,8 @@
-# -to-create-a-clean-and-well-structured-dataset-of-audio-recordings-in-different-Indian-languages.
-
-
+To create a clean and well structured dataset of audio recordings in different Indian languages.
+================================================================================================
+Project By : MOHAMMAD JABIR
+Task By : VINITH HR 
+================================================================================================
 Data Sourcing :
 
 Identify and procure audio data from diverse sources such as:
