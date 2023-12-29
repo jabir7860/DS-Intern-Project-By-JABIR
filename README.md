@@ -1,6 +1,6 @@
 To create a clean and well structured dataset of audio recordings in different Indian languages.
 ================================================================================================
-Project By : MOHAMMAD JABIR
+Project By : MOHAMMAD JABIR,
 Task By : VINITH HR 
 ================================================================================================
 Data Sourcing :
